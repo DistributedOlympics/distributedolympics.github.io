@@ -1,4 +1,3 @@
-# Distributed Olympics
 # Distributed Olympics Protocol
 
 ## Overview
