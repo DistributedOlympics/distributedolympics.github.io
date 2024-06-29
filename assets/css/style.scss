@@ -2,3 +2,24 @@
 ---
 
 @import 'jekyll-theme-architect';
+
+// Import Roboto font from Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+// Styles for the top banner
+#top-banner {
+  background: url('../images/banner-background.png'); // Ensure the background image path is correct
+  text-align: center;
+  padding: 50px 0;
+
+  h1 {
+    font-size: 2.5em;
+    color: #ffffff;
+  }
+}
+
+// Other CSS styles
