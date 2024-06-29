@@ -1,125 +1,80 @@
 ---
 layout: default
 ---
-Testing testing testing...
+# Distributed Olympics Protocol
 
+## Overview
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+The Distributed Olympics aims to revolutionize traditional sports events by leveraging FlowStake technology to host real-time, globally distributed competitions. This protocol decentralizes the Olympics, enabling athletes from around the world to participate in a variety of sports and activities from their locations, with results recorded and verified on a distributed ledger.
 
-[Link to another page](./another-page.html).
+## Key Features
 
-There should be whitespace between paragraphs.
+### Global Participation
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- Athletes can participate from anywhere in the world, eliminating geographical and financial barriers.
+- Events are scheduled to accommodate different time zones, ensuring maximum participation.
 
-# Header 1
+### Real-Time Tracking and Verification
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- Uses FlowStake’s GPS and heartbeat data tracking to monitor athlete performance in real-time.
+- Implements photo and video attestation, combined with computer vision, for identity verification and event compliance.
 
-## Header 2
+### Distributed Ledger Technology
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Activity data is recorded on a distributed ledger (using Hedera Hashgraph and Ethereum smart contracts) to ensure transparency, security, and immutability.
+- Enables peer-to-peer attestation for enhanced credibility of results.
 
-### Header 3
+### Decentralized Account Management
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- Utilizes web3auth.io for seamless and secure account management.
+- Ensures that athlete data and identities are protected and managed in a decentralized manner.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Interactive User Experience
 
-#### Header 4
+- Progressive web apps and mobile applications for iOS and Android provide an engaging platform for athletes and spectators.
+- Features social network-like experiences, including activity feeds, friend interactions, and collective attestations.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Self-Sports Betting
 
-##### Header 5
+- Integrates Ethereum smart contracts for self-sports betting, allowing participants to place bets on their own or others’ performances in a secure and automated manner.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Comprehensive Event Coverage
 
-###### Header 6
+- Supports a wide range of sports and activities, from traditional track and field to innovative, new-age sports.
+- Provides live updates, results, and leaderboards for all events.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## Implementation Phases
 
-### There's a horizontal rule below this.
+### Phase 1: Platform Development
 
-* * *
+- Finalize the FlowStake platform with core functionalities like real-time tracking, ledger integration, and user management.
+- Develop mobile and web applications with initial sports categories.
 
-### Here is an unordered list:
+### Phase 2: Beta Testing and Feedback
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+- Conduct beta testing with selected athletes and events.
+- Gather feedback and iterate on the platform for improvements.
 
-### And an ordered list:
+### Phase 3: Launch and Expansion
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+- Officially launch the Distributed Olympics with a major global event.
+- Expand to include more sports and participants.
+- Enhance platform features based on user feedback and technological advancements.
 
-### And a nested list:
+## Path Forward
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### Secure Partnerships
 
-### Small image
+- Collaborate with sports federations, technology providers, and sponsors to ensure wide-reaching impact and support.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+### Community Building
 
-### Large image
+- Foster a community of athletes, enthusiasts, and developers to contribute to and grow the platform.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### Continuous Innovation
 
+- Keep innovating with emerging technologies and feedback from the community to ensure the Distributed Olympics remains cutting-edge and inclusive.
 
-### Definition lists can be used with HTML syntax.
+## Conclusion
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+The Distributed Olympics, powered by FlowStake technology, presents a transformative approach to global sports competitions. By decentralizing the Olympics, it empowers athletes worldwide, ensures transparent and secure event management, and provides an engaging and interactive experience for all participants and spectators.
